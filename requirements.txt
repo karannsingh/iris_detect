@@ -4,5 +4,3 @@ numpy
 opencv-python-headless
 pillow
 face_recognition
-dlib
-requests
